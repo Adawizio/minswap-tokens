@@ -1,0 +1,18 @@
+project: Adawiz
+
+categories:
+  - AI
+  - DeFi
+  
+decimals: 0
+
+socialLinks:
+  website: https://adawiz.io
+  twitter: https://x.com/Adawiz_io
+
+verified: true
+
+maxSupply: 1000000000
+
+circulatingOnChain:
+  - 50000000
